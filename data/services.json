@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "roomType": "Single Suite",
+    "bed": 1,
+    "person": 2,
+    "fair": 49,
+    "img": "https://setupmyhotel.com/images/Room-Type-Single-Room.jpg?ezimgfmt=rs:300x250/rscb337/ng:webp/ngcb337"
+  },
+  {
+    "id": 2,
+    "roomType": "Double Suite",
+    "bed": 2,
+    "person": 3,
+    "fair": 79,
+    "img": "https://setupmyhotel.com/images/Room-Type-Double-Room.jpg?ezimgfmt=rs:300x250/rscb337/ng:webp/ngcb337"
+  },
+  {
+    "id": 3,
+    "roomType": "Family Suite",
+    "bed": 3,
+    "person": 4,
+    "fair": 99,
+    "img": "https://setupmyhotel.com/images/Room-Type-Triple-Room.jpg?ezimgfmt=rs:300x250/rscb337/ng:webp/ngcb337"
+  },
+  {
+    "id": 4,
+    "roomType": "President Suite",
+    "bed": 1,
+    "person": 2,
+    "fair": 200,
+    "img": "https://setupmyhotel.com/images/Room-Type-presidential-suite-bedroom.jpg?ezimgfmt=rs:300x250/rscb337/ng:webp/ngcb337"
+  }
+]
